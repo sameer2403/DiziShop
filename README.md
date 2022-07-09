@@ -1,6 +1,6 @@
 # DiziShop (An eCommerce Platform for Electronics Product)
 
-Play with app:https://meshopapp.herokuapp.com/
+Play with app:https://dizishopp.herokuapp.com/
 
 > eCommerce platform built with the MERN stack
 
